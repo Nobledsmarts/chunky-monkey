@@ -1,7 +1,7 @@
 # chunky-monkey
 Write a function that splits an array (first argument) into groups the length of size (second argument) and returns them as a two-dimensional array.
 
-#Tests
+# Tests
 
 chunkArrayInGroups(["a", "b", "c", "d"], 2) should return [["a", "b"], ["c", "d"]].  
 
